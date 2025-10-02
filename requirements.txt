@@ -1,3 +1,2 @@
 playwright==1.47.0
 requests
-greenlet==2.0.2
